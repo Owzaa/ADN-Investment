@@ -3,12 +3,12 @@
 ###CLIENT-SIDE
 cd CLIENT
 npm install
-## Start the front-end(APP)
+##Start the front-end(APP)
 npm start
 
-##SERVER-SIDE
+###SERVER-SIDE
 cd SERVER
 npm install
 
-## Start the API
+##Start the API
 npm start
