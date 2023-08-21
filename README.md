@@ -1,12 +1,12 @@
 # ADN-Investment ( Ticket app)
 
-###CLIENT-SIDE
+##CLIENT-SIDE
 cd CLIENT
 npm install
 ##Start the front-end(APP)
 npm start
 
-###SERVER-SIDE
+##SERVER-SIDE
 cd SERVER
 npm install
 
